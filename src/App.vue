@@ -11,9 +11,7 @@ export default {
     data: function() {
         return {
             quotes: [
-                'Just a sample quote',
-                'A second sample quote',
-                'A third sample quote'
+                'Just a sample quote'
             ],
             maxQuotes: 10
         }
