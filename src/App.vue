@@ -20,7 +20,7 @@ export default {
     data: function() {
         return {
             quotes: [
-                'Just a sample quote'
+                'Feel free to delete me and add up to 10 quotes'
             ],
             maxQuotes: 10
         }
